@@ -1,14 +1,25 @@
  /* Bordered form */
  form {
  
+<<<<<<< HEAD
   display: block;
     border: 3px solid #f1f1f1;
     width: 40%;
+=======
+  
+    border: 3px solid #f1f1f1;
+    width: 30%;
+    height: 25%;
+>>>>>>> e873cfe5b7c37164dc9b393e8688dc8705c0eeef
     display:flex;
     text-align: center;
   }
   body{
+<<<<<<< HEAD
     background-image: url('https://static.apparata.nl/images/2016/simba-gif.gif');
+=======
+    background-image: url('/urenbs/urenbs/Foto/1231281.jpg');
+>>>>>>> e873cfe5b7c37164dc9b393e8688dc8705c0eeef
     background-size: cover;
     
     
@@ -23,7 +34,11 @@
 
 }
 
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> e873cfe5b7c37164dc9b393e8688dc8705c0eeef
   /* Full-width inputs */
   input[type=text], input[type=password] {
     width: 40%;
