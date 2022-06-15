@@ -1,0 +1,6 @@
+table, th, td {
+    border:2px solid lightslategrey;
+  }
+  table {
+  border-spacing: 3px;
+  }
